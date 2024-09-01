@@ -12,7 +12,6 @@ I'm **Namitha Manoj**, a 3rd-year B.Tech IT student at Cochin University of Scie
 
 - **Data Science:** Passionate about extracting insights from data, predictive modeling, and machine learning.
 - **Full-Stack Development:** Bridging the gap between front-end and back-end development.
-- **UX/UI Enhancement:** Focused on improving user experiences through thoughtful design.
 
 ### 🛠️ Technical Skills
 
