@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm **Namitha Manoj**, a 3rd-year B.Tech IT student at Cochin University of Science and Technology (CUSAT), Kochi, Kerala, India. I'm currently transitioning into a career in data science, combining my strong background in software development with my passion for data-driven solutions.
+I'm **Namitha Manoj**, a final year B.Tech IT student at Cochin University of Science and Technology (CUSAT), Kochi, Kerala, India. I'm currently transitioning into a career in data science, combining my strong background in software development with my passion for data-driven solutions.
 
 ### 👩‍💻 Aspiring Data Scientist and Software Developer
 
