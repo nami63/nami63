@@ -1,59 +1,78 @@
-## Hi 👋
+### Namitha Manoj – Aspiring Data Scientist and Software Developer  
 
-I'm **Namitha Manoj**, a final year B.Tech IT student at Cochin University of Science and Technology (CUSAT), Kochi, Kerala, India. I'm currently transitioning into a career in data science, combining my strong background in software development with my passion for data-driven solutions.
-
-### 👩‍💻 Aspiring Data Scientist and Software Developer
-
-- 🌱 **Continuous Learning:** Expanding my expertise in data science, focusing on Python, machine learning, and data visualization.
-- 📊 **Data Science Enthusiast:** Currently building projects in predictive analytics, natural language processing (NLP), and data visualization.
-- 🎨 **Web Design and Development:** Proficient in creating visually appealing and user-friendly websites, with experience in React.js, Django, and Flutter.
-
-### 💡 Areas of Interest
-
-- **Data Science:** Passionate about extracting insights from data, predictive modeling, and machine learning.
-- **Full-Stack Development:** Bridging the gap between front-end and back-end development.
-
-### 🛠️ Technical Skills
-
-- **Languages:** Python, C++, C, JavaScript, CSS, HTML
-- **Data Science Tools:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Web Development Frameworks:** React.js, Django, Flutter
-- **Databases:** SQL, familiar with data management and querying
-
-### 📜 Certifications
-
-- Supervised Machine Learning: Regression and Classification
-- Python Essentials 1
-- Getting Started with Artificial Intelligence
-- Scientific Computing with Python
-- SQL (Basic)
-
-### 💼 Internship
-
-- **Operations Manager** at **GTech MuLearn** (May 2024 - Present)
-- **Intern** at **Kireap** (March 2024 - Present)
-  - Location: Kochi, Kerala, India
-- **Intern** at **Ai Aerial Dynamics** | Best Drone Company in Kochi (May 2024)
-  - Studied various UAV components, including sensors, actuators, and communication systems.
-- **Python Developer Intern** at **INFOTRIXS** (January 2024 - February 2024)
-  - Developed Python-based web applications and contributed to project development.
-  - Integrated third-party APIs to enhance application functionality.
-  - Conducted unit tests using pytest, ensuring code reliability.
-
-### 🎓 Education
-
-- **Cochin University of Science and Technology**
-  - Bachelor of Technology - BTech, Information Technology (November 2021 - April 2025)
-- **Kerala State Board of Higher Secondary Education**
-  - Bachelor's Degree, Higher Secondary (June 2019 - March 2021)
-
-### 📫 Contact
-
-- Email: [namithakv63@gmail.com](mailto:namithakv63@gmail.com)
-- LinkedIn: [www.linkedin.com/in/namithamanoj](https://www.linkedin.com/in/namithamanoj)
-
-I'm excited to connect with professionals in the data science field, as well as fellow students and mentors. Let's collaborate, exchange knowledge, and explore new opportunities in tech and data science!
+### About Me  
+I am a final-year B.Tech IT student at **Cochin University of Science and Technology (CUSAT)**, Kochi, Kerala, India. I am passionate about **data science, machine learning, and full-stack development**, with hands-on experience in building data-driven solutions and web applications.  
 
 ---
 
-#DataScience #MachineLearning #Python #WebDevelopment #CreativeMinds #TechIndustry #LinkedInConnect
+### Skills & Technologies  
+- **Languages:** Python, C++, C, JavaScript, HTML, CSS  
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Web Development:** React.js, Django, Flask, Flutter  
+- **Databases:** SQL (PostgreSQL, MySQL)  
+- **Version Control:** Git, GitHub  
+
+---
+
+### Projects  
+
+#### Smart Parking System  
+- Developed an AI-based parking system using **YOLO** for parking lot detection.  
+- Integrated with a **Flutter mobile app** using **Flask API**.  
+- Automated license plate recognition (ALPR) using OCR technology.  
+
+#### Diabetes Prediction Model  
+- Built a **machine learning model** to predict diabetes risk.  
+- Used **Scikit-learn** for model training and evaluation.  
+- Applied **XAI techniques** for model interpretability.  
+
+#### Hand Gesture-Based Interaction System  
+- Developed a **gesture recognition system** using **OpenCV**.  
+- Enabled **air drawing, screenshot capture, and Windows control** using hand gestures.  
+- Added **voice recognition** for enhanced interaction.  
+
+---
+
+### Experience  
+
+#### Internships  
+- **Python Developer Intern at INFOTRIXS** (Jan 2024 – Feb 2024)  
+  - Developed Python-based web applications.  
+  - Integrated third-party APIs and conducted unit tests.  
+
+- **Intern at Kireap Technologies** (March 2024 – Present)  
+  - Developed a **Django-based backend** for Ground Control Station (GCS).  
+  - Integrated **real-time telemetry data** from drone simulators.  
+
+- **Intern at Ai Aerial Dynamics** (May 2024)  
+  - Worked on **drone software systems**, including sensor and communication protocols.  
+
+---
+
+### Certifications  
+- Supervised Machine Learning: Regression and Classification  
+- Python Essentials 1  
+- Getting Started with Artificial Intelligence  
+- Scientific Computing with Python  
+- SQL (Basic)  
+
+---
+
+### Education  
+- **Cochin University of Science and Technology (CUSAT)**  
+  - B.Tech in Information Technology (2021 – 2025)  
+- **Kerala State Board of Higher Secondary Education**  
+  - Higher Secondary (2019 – 2021)  
+
+---
+
+### Contact Me  
+- **Email:** [namithakv63@gmail.com](mailto:namithakv63@gmail.com)  
+- **LinkedIn:** [Namitha Manoj](https://www.linkedin.com/in/namithamanoj)  
+- **Portfolio:** [namithamanoj.github.io](https://nami63.github.io/portfolio)  
+- **GitHub:** [nami63](https://github.com/nami63)  
+
+---
+
+### Let's Connect!  
+I am eager to collaborate on **data science, AI, and full-stack development projects**. Let's innovate and create impactful solutions together!  
